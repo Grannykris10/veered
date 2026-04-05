@@ -1,8 +1,5 @@
 # veered
 Veered is a mobile app for discovering hidden, unusual, and unforgettable places between Point A and Point B.
-Veered
-
-Veered is a mobile app for discovering hidden, unusual, and unforgettable places between Point A and Point B.
 
 Instead of showing only the usual tourist stops, Veered helps travelers find the places most people drive right past — ghost towns, forgotten cemeteries, roadside oddities, movie locations, caves, historic markers, wildlife sightings, and other off-route gems. The goal is to turn every trip into an adventure by making it easier to explore the weird, the meaningful, and the unexpected.
 
