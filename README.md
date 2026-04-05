@@ -19,12 +19,4 @@ Why Veered?
 
 Most travel apps focus on major attractions. Veered focuses on the places that feel personal, strange, historic, overlooked, and worth talking about later.
 
-If you want, here’s a slightly more polished developer-style version too:
-
-Veered
-
-Veered is a travel discovery app built to help users find hidden, unusual, and unforgettable places between Point A and Point B.
-
-From ghost towns and forgotten cemeteries to roadside oddities, historic markers, caves, wildlife sightings, and movie locations, Veered is designed for travelers who want more than the standard tourist experience. The app encourages exploration beyond the obvious and makes it easier to uncover stories, mystery, and adventure along the way.
-
 Our mission is simple: make every drive more interesting.
